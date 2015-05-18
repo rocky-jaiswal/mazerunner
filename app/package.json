@@ -1,0 +1,16 @@
+{
+  "name": "mazerunner",
+  "productName": "mazerunner",
+  "identifier": "in.rockyj.mazerunner",
+  "description": "just for fun",
+  "version": "0.1.0",
+  "author": "rocky-jaiswal",
+  "main": "main.js",
+  "config": {
+    "target": "development"
+  },
+  "dependencies": {
+    "fs-jetpack": "^0.6.4",
+    "jquery": "^2.1"
+  }
+}
